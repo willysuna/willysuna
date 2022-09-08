@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willysuna&label=Profile%20views&color=0e75b6&style=flat" alt="willysuna" /> </p>
 
-- 🔭 I’m currently working on **TaiyoOS**
+- 🔭 I’m currently working on **INTERESTING STUFF**
 
-- 🌱 I’m currently learning **ASM, C, C#, Unity**
+- 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **willysuna#4432**
 
