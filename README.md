@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A random software developer from Spain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willysuna&label=Profile%20views&color=0e75b6&style=flat" alt="willysuna" /> </p>
-
-- 🔭 I’m currently working on [INTERESTING STUFF!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🔭 I’m currently working on [BeatrizBot](https://github.com/willysuna/BeatrizBot)
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 My website [https://willysuna.dev](https://willysuna.dev)
+- 👨‍💻 My website is at: [https://willysuna.dev](https://willysuna.dev)
 
 - 📫 How to reach me **willysuna@proton.me / willysuna#4432**
 
