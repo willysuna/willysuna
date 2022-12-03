@@ -2,4 +2,3 @@
 ## Web/Software dev from Spain!
 
 - Currently working on NichibotsuOS
-- Learning Godot
