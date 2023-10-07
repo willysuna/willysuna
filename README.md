@@ -1,4 +1,2 @@
-# Hi, I'm William.
-## Web/Software dev from Spain!
-
-- Currently working on NichibotsuOS
+# hi, i'm will!
+idk what to put here lol
